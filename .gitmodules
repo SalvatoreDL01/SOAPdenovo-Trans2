@@ -1,0 +1,3 @@
+[submodule "SOAPdenovo-Trans"]
+	path = SOAPdenovo-Trans
+	url = https://github.com/aquaskyline/SOAPdenovo-Trans.git
